@@ -2,6 +2,7 @@
 # osrparse, a parser for osu replays in Python
 
 This is a parser for osu! rhythm game replays as described by https://osu.ppy.sh/wiki/Osr_(file_format)
+The intent of this branch is to add write and modify functionality
 
 ## Installation
 To install osrparse, simply:
